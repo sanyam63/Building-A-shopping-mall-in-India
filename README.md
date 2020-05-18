@@ -1,4 +1,4 @@
-# Capstone-of-IBM-course
+# Building a shopping mall
 Building a shopping mall at a correct place in India using machine learning clustering algorithm K means and Foursquare API.
 
 First of all, we will do data scraping to check the biggest mall in India. We will extract the data into a table to conclude that 
